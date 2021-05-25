@@ -1,3 +1,9 @@
+puts ""
+puts ""
+puts ""
+puts ""
+
+
 puts "Parabéns! Você conquistou o maravilhoso e inegualável VALE MILKSHAKE! Caso prefira outra guloseima o valor do vale é de R$35 valido
     qualquer item do IFOOD!"
 
