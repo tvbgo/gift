@@ -4,8 +4,8 @@ puts ""
 puts ""
 puts "IMPORTANTE ! LEIA ABAIXO !!"
 puts "RÁPIDO! GRITE 'O MILKSHAKE É TODO MEU!' PARA SINZALIZAR QUE VOCÊ CHEGOU AO FIM E PODER RESGATAR O SEU PRÊMIO!!!"
-puts "Parabéns! Você conquistou o maravilhoso e inegualável VALE MILKSHAKE! Caso prefira outra guloseima o valor do vale é de R$35 valido
-para qualquer item do IFOOD!"
+puts "Parabéns! Você conquistou o maravilhoso e inegualável VALE MILKSHAKE!"
+puts "Caso prefira outra guloseima o valor do vale é de R$35 e será depositado no Caju!"
 
 puts "
 __________________________________________________________________██████__________________________
@@ -62,5 +62,5 @@ ______________________________________░░░░░░░░░░░░░░
 "
 puts "IMPORTANTE ! LEIA ABAIXO !!"
 puts "RÁPIDO! GRITE 'O MILKSHAKE É TODO MEU!' PARA SINZALIZAR QUE VOCÊ CHEGOU AO FIM E PODER RESGATAR O SEU PRÊMIO!!!"
-puts "Parabéns! Você conquistou o maravilhoso e inegualável VALE MILKSHAKE! Caso prefira outra guloseima o valor do vale é de R$35 valido
-para qualquer item do IFOOD!"
+puts "Parabéns! Você conquistou o maravilhoso e inegualável VALE MILKSHAKE!"
+puts "Caso prefira outra guloseima o valor do vale é de R$35 e será depositado no Caju!"
